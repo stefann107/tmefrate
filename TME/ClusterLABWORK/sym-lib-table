@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74HC125_Custom")(type "KiCad")(uri "${KIPRJMOD}/74HC125_Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "MM908E625_Custom")(type "KiCad")(uri "${KIPRJMOD}/MM908E625_Custom.kicad_sym")(options "")(descr ""))
+)
